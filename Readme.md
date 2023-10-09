@@ -1,2 +1,2 @@
 #test file
-@status
+@status 123
