@@ -1,0 +1,141 @@
+    3  git --version
+    4  git clone https://github.com/git/git
+    5  git --version
+    9  git status
+   10  git status
+   11  git add .
+   12  git status
+   13  git commit -m "added index .html " 
+   14  git commit -m "added index .html" 
+   15   git config --global user.email "naveenkakkar190@gmail.com"
+   16  git commit -m "added index .html" 
+   43  git push origin master
+   44  git clone git@github.com:kukucr123/testcommand.git
+   46  git clone git@github.com:kukucr123/testcommand.git
+   47  git clone git@github.com:kukucr123/testcommand.git
+   49  git add .
+   50  git commit -m "test file"
+   51  git push origin main
+   55  git init
+   56  git add .
+   57  git commit -m "Readme.txt"
+   58  git push origin main
+   60  git remote add origin git@github.com:kukucr123/demo-repo2.git
+   61  git remote -v
+   62  git push -u origin master
+   63  git branch
+   65  git checkout -b feature-readme-instructions
+   66  git branch
+   67  git checkout ster
+   68  git branch
+   69  git checkout master
+   70  git checkout feature-readme-instructions 
+   71  git status
+   72  git add .
+   73  git commit -m "test file "
+   74  git checkout master
+   75  git diff feature-readme-instructions 
+   76  git checkout feature-readme-instructions 
+   77  git push
+   78  git push --set-upstream origin feature-readme-instructions
+   79  git checout master
+   80  git checkout master
+   81  git pull
+   82  git branch -d feature-readme-instructions 
+   83  git checkout -b quick-checout
+   84  git status
+   85  git diff
+   86  git commit -am "test"
+   87  git checkout master
+   88  git checkout quick-checout 
+   89  git diff
+   90  git commit -am "test"
+   91  git branches
+   92  git branch
+   96  git checout master
+   97  git checkout master
+   98  git branches
+   99  git branch
+  100  git status
+  101  git branch
+  102  git branch -d quick-checout 
+  103  git checkout -b quick-test
+  104  git branch
+  105  git checkout master
+  106  git delete branch -b quick-test
+  107  git branch -b quick-test
+  108  git branch -d quick-test
+  109  git rebase 
+  112  git status
+  113  git reset --hard
+  115  git stash
+  116  git stash
+  117  git checkout -b quicktst
+  118  git status
+  119  git branches
+  120  git branche
+  121  git branch
+  122  git checkout master
+  123  git branch -d quicktst
+  124  git branch
+  126  git stash
+  127  git checkout -b quick-test
+  128  git branches
+  129  git branche
+  130  git branch
+  131  git status
+  132  git diff
+  133  git commit -am "added status"
+  134  git checkout master
+  135  git branch
+  136  git checkout quick-test
+  137  git status
+  138  git status
+  139  git commit -am "test commit"
+  140  git checkout master
+  141  git checkout quick-test est
+  142  git checkout quick-test 
+  143  git status
+  144  git commit -am "added there"
+  145  git branch
+  146  git checkout quick-test 
+  147  git checkout master
+  148  git diff master
+  149  git checkout quick-test 
+  150  git diff master
+  151  git merge master
+  152  git status
+  153  git commit -am "merged with master"
+  154  git status
+  155  git add Readme.md 
+  156  git status
+  157  git reset
+  158  git status
+  159  git add Readme.md 
+  160  git commit -m "test file "
+  161  git status
+  162  git reset HEAD~1
+  163  git status
+  164  git diff
+  165  git status
+  166  git logs
+  167  git log
+  169  git reset b5fcce7999948783f563086abed8b6eafd6c9dae
+  170  git reset --hard aa4972700be40a3bf62ed4804fa2b91bb7e44fd4
+  171  git branch
+  172  git checkout master
+  173  git status
+  174  git commit -am "second commit"
+  175  git push
+  176  git status
+  177  git commit -am "third commit"
+  178  git push
+  179  git log
+  180  git revert d54daf2efca214bc267154403f0d3a56192f201e
+  181  git push
+  190  git log
+  200  git log --oneline
+  201  git log 
+  202  git reflog
+  204  history | grep "git " > path/to/file
+  205  history | grep "git " > git_history
